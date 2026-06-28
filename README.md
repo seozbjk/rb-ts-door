@@ -31,4 +31,4 @@ Opening: Line 16:  "Enum.EasingStyle.Linear"
 
 Closing: Line 18 "Enum.EasingStyle.Linear"
 
-Delete the Linear and type which EasingStyle do you want. You can see all EasingStyles from here   https://create.roblox.com/docs/tr-tr/reference/engine/enums/EasingStyle
+Delete the Linear and type which EasingStyle do you want. You can see all EasingStyles from here   https://create.roblox.com/docs/reference/engine/enums/EasingStyle
